@@ -5,7 +5,7 @@ date: "2021-09-01"
 tags: [multicore]
 ---
 
-Welcome to the September 2021 [Multicore OCaml](https://github.com/ocaml-multicore/ocaml-multicore) monthly report! This month's update along with the [previous updates](https://discuss.ocaml.org/tag/multicore-monthly) have been compiled by me, @ctk21, @kayceesrk and @shakthimaan. The team has been working over the past few months to finish the [last few features](https://github.com/ocaml-multicore/ocaml-multicore/projects/4) necessary to reach feature parity with stock OCaml. We also worked closely with the core OCaml team to develop the timeline for upstreaming Multicore OCaml to stock OCaml, and have now agreed that:
+Welcome to the September 2021 [Multicore OCaml](https://github.com/ocaml-multicore/ocaml-multicore) monthly report! This month's update along with the [previous updates](https://discuss.ocaml.org/tag/multicore-monthly) have been compiled by me, @ctk21, @kayceesrk and @shakthimaan. The team has been working over the past few months to finish the [last few features](https://github.com/ocaml-multicore/ocaml-multicore/projects/4 - [404 Not Found]) necessary to reach feature parity with stock OCaml. We also worked closely with the core OCaml team to develop the timeline for upstreaming Multicore OCaml to stock OCaml, and have now agreed that:
 
 **OCaml 5.0 will support shared-memory parallelism through domains _and_ direct-style concurrency through effect handlers (without syntactic support)**. 
 
